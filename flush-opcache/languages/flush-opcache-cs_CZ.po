@@ -1,0 +1,109 @@
+# Copyright (C) 2017 WP OPcache
+# This file is distributed under the same license as the WP OPcache package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP OPcache 2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flush-opcache\n"
+"POT-Creation-Date: 2017-10-31 13:11+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-31 13:26+0100\n"
+"Language-Team: Luboš Jeřábek <lubos@lubosjerabek.cz>\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: cs_CZ\n"
+
+#: flush-opcache.php:39 flush-opcache.php:40
+msgid "Flush PHP OPcache"
+msgstr "Vyprázdnit PHP OPcache"
+
+#: flush-opcache.php:56
+msgid "Sorry, you can't flush OPcache."
+msgstr "Omlouváme se, ale nemůžete vyprázdnit OPcache."
+
+#: flush-opcache.php:77
+msgid "OPcache was successfully flushed."
+msgstr "OPcache byla vyprázdněna."
+
+#: flush-opcache.php:83
+msgid "WP OPcache Options"
+msgstr "WP OPcache Nastavení"
+
+#: flush-opcache.php:97
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Je nám líto, nemáte přístup k této stránce."
+
+#: flush-opcache.php:100
+msgid ""
+"You do not have the Zend OPcache extension loaded, you need to install it to "
+"use this plugin."
+msgstr ""
+"Toto rozšíření wordpressu, nelze použít bez nainstalované Zend OPcache."
+
+#: flush-opcache.php:104
+msgid ""
+"Zend OPcache is loaded but not activated. You need to set opcache.enable=1 "
+"in your php.ini"
+msgstr ""
+"Zend OPcache je načtena, ale není aktivována. Musíte nastavit opcache.enable "
+"= 1 ve svém php.ini"
+
+#: flush-opcache.php:117
+msgid "General Options"
+msgstr "Obecné možnosti"
+
+#: flush-opcache.php:124
+msgid "Automatically flush OPcache after an upgrade"
+msgstr "Automaticky vyprázdnit OPCache po aktualizaci"
+
+#: flush-opcache.php:130
+msgid ""
+"Precompile php files each time opcache is flushed aka \"OPcache Prewarm\""
+msgstr ""
+"Předkompilovat php soubory pokaždé, když je OPcache vyprázdněna (OPcache "
+"Prewarm)"
+
+#: flush-opcache.php:136
+msgid ""
+"Help us to be more famous, it'll add a link to this plugin in your footer"
+msgstr ""
+"Pomozte nám, abychom byli slavnější, přidejte si odkaz na tento plugin do "
+"vašeho zápatí"
+
+#: flush-opcache.php:157
+msgid "General Settings"
+msgstr "Obecné nastavení"
+
+#: flush-opcache.php:158
+msgid "Statistics"
+msgstr "Statistika"
+
+#: flush-opcache.php:173
+msgid "Powered by Flush OPcache"
+msgstr "Běží na Flush OPcache"
+
+#. Plugin Name of the plugin/theme
+msgid "WP OPcache"
+msgstr "WP OPcache"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/flush-opcache/"
+msgstr "http://wordpress.org/plugins/flush-opcache/"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin allows to manage Zend OPcache inside your WordPress admin "
+"dashboard."
+msgstr ""
+"Tento plugin umožňuje spravovat Zend OPcache v panelu administrátora "
+"aplikace WordPress."
+
+#. Author of the plugin/theme
+msgid "Infogérance Linux"
+msgstr "Infogérance Linux"
+
+#. Author URI of the plugin/theme
+msgid "https://mnt-tech.fr/"
+msgstr "https://mnt-tech.fr/"
